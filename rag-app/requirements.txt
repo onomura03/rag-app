@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-core
+llama-parse
+openai
+tiktoken
+chromadb
